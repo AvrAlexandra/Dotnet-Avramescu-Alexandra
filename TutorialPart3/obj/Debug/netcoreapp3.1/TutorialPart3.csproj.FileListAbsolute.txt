@@ -1,0 +1,14 @@
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\bin\Debug\netcoreapp3.1\TutorialPart3.exe
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\bin\Debug\netcoreapp3.1\TutorialPart3.deps.json
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\bin\Debug\netcoreapp3.1\TutorialPart3.runtimeconfig.json
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\bin\Debug\netcoreapp3.1\TutorialPart3.runtimeconfig.dev.json
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\bin\Debug\netcoreapp3.1\TutorialPart3.dll
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\bin\Debug\netcoreapp3.1\TutorialPart3.pdb
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\obj\Debug\netcoreapp3.1\TutorialPart3.csproj.AssemblyReference.cache
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\obj\Debug\netcoreapp3.1\TutorialPart3.GeneratedMSBuildEditorConfig.editorconfig
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\obj\Debug\netcoreapp3.1\TutorialPart3.AssemblyInfoInputs.cache
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\obj\Debug\netcoreapp3.1\TutorialPart3.AssemblyInfo.cs
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\obj\Debug\netcoreapp3.1\TutorialPart3.csproj.CoreCompileInputs.cache
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\obj\Debug\netcoreapp3.1\TutorialPart3.dll
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\obj\Debug\netcoreapp3.1\TutorialPart3.pdb
+F:\GDSC\Dotnet-Avramescu-Alexandra\TutorialPart3\obj\Debug\netcoreapp3.1\TutorialPart3.genruntimeconfig.cache

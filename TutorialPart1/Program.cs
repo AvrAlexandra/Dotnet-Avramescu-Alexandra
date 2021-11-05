@@ -43,6 +43,10 @@ namespace TutorialPart1
             int[] array3 = { -6 };
             Test(array3);
             Console.WriteLine(array3[0]);
+
+            //.NET Type Aliases
+           // Int32 v1 = 5; 
+           // System.Int32 v2 = 5; 
         }
         void Print() 
         {
